@@ -1,0 +1,41 @@
+
+1.data types:
+	list
+	tuple
+	dictionary
+	set
+	string
+	frozen set
+2.slicing
+3.loops - for,while
+4.conditional statements-if , elif,else
+22.range
+23.input()
+24.Matrices
+
+*********************************************
+5.control loop statements
+6.functions
+7.exception handling
+8.modules 
+9.regular expressions
+10.oops
+11.multithreading
+12.docking
+13.data base integration
+14.itretaros
+15.generators
+16.decerators
+17.fileoperations
+18.list comphrension
+19.lambda function
+20.ennumerate
+21.escape chracters
+25.Bit wise Operators
+26.predicate Function
+27.scope,Local and Global variables
+28.Name space
+29.Arrays
+
+
+
